@@ -1,0 +1,16 @@
+# KiCad backup and temp files
+*.bak
+*.tmp
+*.swp
+*.bck
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*-save.kicad_sch
+*-save.kicad_pcb
+*buck converter-backups/
+logo 15x15.kicad_mod
+logo 7x7.kicad_mod
+logo 10x10.kicad_mod
+
+# Auto-generated
+fp-info-cache
